@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
-  "image": "src/assets/img/fern-in-hand.jpeg",
-  "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "title": "RAGE Sessions",
+  "image": "/src/assets/img/hogfish-mybodymyvoice_mbrockington8j6a9822-scaled-e1724272725795.jpg",
+  "image_alt": "Holden with drum in hand",
+  "body": "Somatic movement and voice sessions centered on rage and community"
 }
